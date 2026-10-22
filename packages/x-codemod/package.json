@@ -32,7 +32,7 @@
     "url": "https://opencollective.com/mui-org"
   },
   "dependencies": {
-    "@babel/core": "^7.24.0",
+    "@babel/core": "^8.0.7",
     "@babel/runtime": "^7.24.0",
     "@babel/traverse": "^7.24.0",
     "jscodeshift": "0.13.1",
